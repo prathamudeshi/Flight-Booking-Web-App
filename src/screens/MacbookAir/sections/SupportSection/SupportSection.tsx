@@ -24,7 +24,7 @@ export const SupportSection = (): JSX.Element => {
   ];
 
   return (
-    <section className="relative w-full py-20 bg-[#05a9ea] flex flex-col items-center gap-2.5 overflow-hidden">
+    <section className="relative w-full py-20 bg-white flex flex-col items-center gap-2.5 overflow-hidden">
       <img
         className="absolute w-full h-[662px] top-0 left-0"
         alt="Background element"
